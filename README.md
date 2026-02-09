@@ -74,6 +74,12 @@ LeetCode solutions implemented in **Python**, focusing on clean code and approac
 - **Space Complexity:** O(1)
 
 ---
+### Remove Element(Leetcode 27)
+- **Approach:** Array
+- **Time Complexity:** O(n)
+- **Space Complexity:** O(1)
+
+---
 
 ## Language
 - Python
