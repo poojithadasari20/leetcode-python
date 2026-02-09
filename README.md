@@ -61,14 +61,14 @@ LeetCode solutions implemented in **Python**, focusing on clean code and approac
 
 ---
 
-###Remove Duplicates from Sorted Array(LeetCode 26)
+### Remove Duplicates from Sorted Array(LeetCode 26)
 - **Approach:** Array
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(1)
 
 ---
 
-###Remove Duplicates from Sorted Array II(LeetCode 80)
+### Remove Duplicates from Sorted Array II(LeetCode 80)
 - **Approach:** Array
 - **Time Complexity:** O(n)
 - **Space Complexity:** O(1)
