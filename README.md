@@ -80,6 +80,12 @@ LeetCode solutions implemented in **Python**, focusing on clean code and approac
 - **Space Complexity:** O(1)
 
 ---
+### LeetCode 1980 – Find Unique Binary String
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+---
 
 ## Language
 - Python
